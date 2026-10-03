@@ -30,7 +30,7 @@ I am actively building my foundation in electronics and programming to develop s
 ---
 
 ## 📬 Connect With Me
-- **LinkedIn:** [Suriya Prakash A](https://www.linkedin.com) *(Add your profile URL here)*
+- **LinkedIn:** [Suriya Prakash A]https://www.linkedin.com
 - **Email:** [suriyaprakash0680@gmail.com](mailto:suriyaprakash0680@gmail.com)
 
 ---
